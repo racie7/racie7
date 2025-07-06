@@ -26,5 +26,7 @@
 3. A flutter app for enabling Deriv traders to do deposit and withdraw from M-Pesa https://github.com/racie7/fltrft/tree/devs
 4. A customizable Deriv trading site using DERIV APIs https://github.com/racie7/brsite
 
+**Note: If you get a 404 Page on any of the repos just request access on my provided email address**
+
 
 
