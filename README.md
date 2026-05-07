@@ -1,32 +1,26 @@
-# Hi, I’m Gracey 👋
+# Hi, I'm Grace 👋
 
-💻 Software Developer | Fullstack leaning towards Frontend| Javascript ( frontend frameworks)  • PHP • Node.js • TypeScript  
+Senior Full-Stack Engineer with 6+ years building production-grade 
+fintech and payments systems in East Africa and beyond.
 
-✨ I’m passionate about building scalable, user-friendly applications, with a focus on clean code and great UX.  
+I specialize in backend APIs, payment integrations, and scalable 
+microservice architectures — with a sharp eye for clean, maintainable code.
 
-🌱 Currently learning: Advanced system design & cloud architecture  
-📫 How to reach me: [Email](mailto:grace.muthui50@gmail.com) | [LinkedIn](https://www.linkedin.com/in/grace-muthui-ab881313a/)  
+## 💼 What I Build
+- Payment processing systems & wallet infrastructure
+- REST APIs & microservices (Spring Boot, Node.js)
+- QuickBooks, M-Pesa, and third-party financial integrations
+- Full-stack web apps (React, Next.js, TypeScript)
 
+## 🛠️ Tech Stack
+**Backend:** Java, Spring Boot, Node.js, PHP  
+**Frontend:** React, Next.js, TypeScript  
+**Databases:** PostgreSQL, MySQL, MariaDB  
+**DevOps:** Docker, Nginx, Linux, systemd, CI/CD  
+**Other:** REST APIs, OAuth2, JWT, M-Pesa API, QuickBooks API
 
----
+## 🌍 Based in Nairobi, Kenya | Open to Remote
 
-## 🛠️ Technologies & Tools
-- React, Next.js, TypeScript, Flutter
-- Node.js, Express, Laravel, PHP
-- MySQL, MariaDB
-- Docker, Git, CI/CD
-- Serverless - Vercel
-
----
-
-## 📈 Recent Projects
-⭐ Check out my pinned repositories below for some of my recent personal work!
-1. A Node js project for process M-pesa B2C and C2B transactions for Deriv Traders https://github.com/racie7/bknd/tree/dev
-2. The initial PHP version (before I rewrote it in Node js) of the M-Pesa -Deriv integration https://github.com/racie7/listener/tree/initial
-3. A customizable Deriv trading site using DERIV APIs https://github.com/racie7/brsite, work in progress deployed at https://www.detrabots.com/
-4. A flutter app for enabling Deriv traders to do deposit and withdraw from M-Pesa https://github.com/racie7/fltrft/tree/devs 
-
-**Note: If you get a 404 Page on any of the repos just request access on my provided email address**
-
-
-
+## 📫 Reach Me
+- Email: grace.muthui50@gmail.com  
+- LinkedIn: [grace-muthui](https://www.linkedin.com/in/grace-muthui-ab881313a/)
